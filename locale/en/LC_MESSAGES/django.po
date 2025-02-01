@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-18 03:18-0700\n"
+"PO-Revision-Date: 2024-07-18 03:24+0000\n"
+"Last-Translator:   <admin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: .\beckent\settings.py:116
+msgid "Uzbek"
+msgstr "english"
+
+#: .\beckent\settings.py:117
+msgid "English"
+msgstr "english"
+
+#: .\blog\templates\home.html:40
+msgid "read more"
+msgstr "read  more"
+
+#: .\blog\templates\tovar.html:51
+msgid "muamolar"
+msgstr "probliy"
+
+#: .\blog\views.py:11
+msgid "songi yangilikalr"
+msgstr "latest news"
